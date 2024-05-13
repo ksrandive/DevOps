@@ -1,0 +1,7 @@
+Test2
+
+Git Reset Day 1
+
+Git reset demo1
+
+created new branch and changed file test2
